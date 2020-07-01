@@ -5,7 +5,7 @@ Info on topic:
 //DataFrame:
 
 [DataFrame](https://github.com/AleksandrsVerenkovs/EDIBO)
-[DatFrame_Phyton explanation](https://www.geeksforgeeks.org/python-pandas-dataframe/)
+[DataFrame_Phyton explanation](https://www.geeksforgeeks.org/python-pandas-dataframe/)
 
 //Window Event Log:
 

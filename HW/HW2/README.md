@@ -1,5 +1,5 @@
 1. - [X] Run Linux on Windows.
 
-![alt text](images/HW2_Linux on Windows.jpg)
+![](https://github.com/AleksandrsVerenkovs/EDIBO/blob/master/images/HW2_Linux%20on%20Windows.jpg)
 
 2. Bitwise operations.

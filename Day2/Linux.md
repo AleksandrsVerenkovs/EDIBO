@@ -14,13 +14,13 @@ Arrow up => goes through history commands
 
 ls -l => gives time of creation, directory
 
-Excample-> cd / [double TAB] => gives option of possible locations
+Example-> cd / [double TAB] => gives option of possible locations
 
 '/' => root 
 
 ls | head -n 3 => gives first 3 options. '|' seperate options in "pipeline"
 
-Excample->
+Example->
 
 a= 123
 b+22

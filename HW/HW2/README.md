@@ -1,3 +1,3 @@
 1. Run Linux on Windows.
 
-Bitwise operations.
+2. Bitwise operations.

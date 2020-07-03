@@ -1,0 +1,1 @@
+-[] check totalcomander something on Windows.

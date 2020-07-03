@@ -3,7 +3,7 @@ Check with what shell work => echo $0
 
 Ctrl+Shift_T => new TAB
 
-explain command => man + command_name
+man + command_name => explain command 
 
 Structure:
 
@@ -22,8 +22,8 @@ ls -lt
 
 what drwxrwxr mean?
 
-first 3 rwx is for admin
-next 3 rwx is for admin group 
+first 3 rwx is for author 
+next 3 rwx is for author group 
 last 3 rwx is for rest(outside world, other source).
 
 d - directory
@@ -57,6 +57,8 @@ rwx   rwx   rwx
 111   100   100
  7     4     4
  
+ or just write => chmod +x  file_name 
+ ! this gives "execute" for all parties.
  more info bin&dec iechekot.
  
  

@@ -1,0 +1,62 @@
+Check with what shell work => echo $0
+
+
+Ctrl+Shift_T => new TAB
+
+explain command => man + command_name
+
+Structure:
+
+command_name -key(s) key(s) argument(s)
+
+exit explanation=> q
+
+ls -t => t stands for time, l stands for letter
+
+nano => text redactor
+exit nano=> Ctrl+ X
+
+launch file(made with nano or whatever) => nano + fail_name
+
+ls -lt
+
+what drwxrwxr mean?
+
+first 3 rwx is for admin
+next 3 rwx is for admin group 
+last 3 rwx is for rest(outside world, other source).
+
+d - directory
+- - fail object
+l - link
+number after drwxrwxrwx is number of directorys inside this directory.
+
+# Addresses - absolute (/), relative(., .., ~)
+. - is relative adress(base point :D)
+.. - step one level back and then allows to go forward
+~ - represend "home"
+Example:
+ls ../ABC/ => from /home/user/Documents I went back to user, then to ABC directory and shows content(because ls command).
+
+hexdump -C (hex code ASCII table, important CAPITAl C). Levels go on binary-> decimal-> hexdecimal.
+xxd -b faila_name => shows hexdecimal representation of info.
+
+whereis + commmand_name => shows command description location
+
+echo $PATh => shows main "highway" where system search info.
+
+# Script writing in Bash
+
+#!/bin/bash => states that will use bash language
+
+execute command => chmod 744 +script_file_name
+
+why 744?
+
+rwx   rwx   rwx
+111   100   100
+ 7     4     4
+ 
+ more info bin&dec iechekot.
+ 
+ 

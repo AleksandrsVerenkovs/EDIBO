@@ -61,4 +61,29 @@ rwx   rwx   rwx
  ! this gives "execute" for all parties.
  more info bin&dec iechekot.
  
- 
+Change call signeture => PS1 =$...
+
+cd - => back to start directory
+
+ls | wc => wc stands for word counter. (check more on what it gives)
+
+`` => "backthick" execute command and give it to previous command.
+
+## Vim shit
+
+SHIFT + g => last line
+g => first sheet
+
+
+df -m => allow to see disk space. "-m" provides in MB 
+
+history > h.txt => make file h.txt that contains history of bash(in this case)
+
+df -h | grep directory_name => grep search row name and provides size. No fucking idea, kkāda hujņa.
+
+bash commad assign:
+()[https://www.cyberciti.biz/faq/unix-linux-bsd-appleosx-bash-assign-variable-command-output/]
+
+var= $() == ``
+
+man _command_name => description of command

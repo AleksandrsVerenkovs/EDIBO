@@ -1,1 +1,1 @@
--[ ] check totalcomander something on Windows.
+- [ ] check totalcomander something on Windows.
